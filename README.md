@@ -12,15 +12,15 @@
 
 <p align="left"> <a href="https://twitter.com/nikolazcorre15" target="blank"><img src="https://img.shields.io/twitter/follow/nikolazcorre15?logo=twitter&style=for-the-badge" alt="nikolazcorre15" /></a> </p>
 
-- 🔭 I’m currently working on [onlie-store](https://github.com/NicolasCorredor02/online-store)
+- 🔭 I’m currently working on https://github.com/NicolasCorredor02/yeli-burger
 
 - 🌱 I’m currently learning **Full stack web developer at coderhouse | TtypeScript | React | NodeJS | Astro | ExpressJS | AWS | Docker**
 
-- 👨‍💻 All of my projects are available at [COMING SOON](COMING SOON)
+- 👨‍💻 All of my projects are available at https://nicolas-rodriguez-portfolio.netlify.app/
 
 - 📫 How to reach me **nicolas.d02@outlook.com**
 
-- 📄 Know about my experiences [COMING SOON](COMING SOON)
+- 📄 Know about my experiences https://nicolas-rodriguez-portfolio.netlify.app/
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
