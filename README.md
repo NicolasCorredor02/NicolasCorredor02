@@ -12,7 +12,7 @@
 
 <p align="left"> <a href="https://twitter.com/nikolazcorre15" target="blank"><img src="https://img.shields.io/twitter/follow/nikolazcorre15?logo=twitter&style=for-the-badge" alt="nikolazcorre15" /></a> </p>
 
-- 🔭 I’m currently working on https://github.com/NicolasCorredor02/yeli-burger
+- 🔭 I’m currently working on https://github.com/NicolasCorredor02/mega-stock
 
 - 🌱 I’m currently learning **Full stack web developer at coderhouse | TtypeScript | React | NodeJS | Astro | ExpressJS | AWS | Docker**
 
